@@ -1,6 +1,6 @@
-# 📱 ChatApp - Real-time Messaging with Jetpack Compose & Firebase
+# 📱 ChitChat - Real-time Messaging with Jetpack Compose & Firebase
 
-Welcome to **ChatApp**, a modern real-time messaging application built using **Jetpack Compose** and **Firebase**. This project demonstrates how to implement essential chat features like user authentication, real-time messaging, and user discovery in a clean, Compose-based UI.
+Welcome to **ChitChat**, a modern real-time messaging application built using **Jetpack Compose** and **Firebase**. This project demonstrates how to implement essential chat features like user authentication, real-time messaging, and user discovery in a clean, Compose-based UI.
 
 ![Image](https://github.com/user-attachments/assets/eda256b2-7227-4f50-ac0e-96397815357e)
 
@@ -12,7 +12,7 @@ Welcome to **ChatApp**, a modern real-time messaging application built using **J
 - 💬 **Real-time Messaging** – Send and receive messages instantly
 - 📧 **User Search by Email** – Find users and start chatting
 - 🎨 **Jetpack Compose UI** – Smooth, responsive, and modern design
-- 🔔 **Firestore Integration** – Store and sync chats in real-time
+- 🔔 **Realtime Database Integration** – Store and sync chats in real-time
 
 
 
